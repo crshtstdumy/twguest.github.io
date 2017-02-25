@@ -12,9 +12,11 @@ Nothing to do with hard work or dedication.
 
 **Email accounts**
 
--[La Trobe Student emails](https://www.google.com.au/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwij8qbopavSAhULybwKHd90COUQFggiMAA&url=https%3A%2F%2Flogin.microsoftonline.com%2F&usg=AFQjCNH4yDvoDpXiOdf5vddaHUmpjIS-8Q&sig2=ZH6Jg46oERSr8HJDxyxctw)
--[Gmail](www.gmail.com)
--[Private Email](https://privateemail.com/appsuite/signin#)
+- [La Trobe Student emails](https://www.google.com.au/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwij8qbopavSAhULybwKHd90COUQFggiMAA&url=https%3A%2F%2Flogin.microsoftonline.com%2F&usg=AFQjCNH4yDvoDpXiOdf5vddaHUmpjIS-8Q&sig2=ZH6Jg46oERSr8HJDxyxctw)
+- [Gmail](www.gmail.com)
+- [Private Email](https://privateemail.com/appsuite/signin#)
+
+
 
 
 Online databases
