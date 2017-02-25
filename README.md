@@ -1,39 +1,21 @@
 ## Welcome to Radio GRAIN
 
+![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dimethyltryptamine_2.svg/2000px-Dimethyltryptamine_2.svg.png)
+
 ```markdown
 Everything to do with Genetics, Robotics, Artifical Intelligence and Nanotechnology.
 
 Nothing to do with hard work or dedication.
 ```
 
-### Markdown
+### Quick links
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Email accounts**
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+**[La Trobe Student emails]**(https://www.google.com.au/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwij8qbopavSAhULybwKHd90COUQFggiMAA&url=https%3A%2F%2Flogin.microsoftonline.com%2F&usg=AFQjCNH4yDvoDpXiOdf5vddaHUmpjIS-8Q&sig2=ZH6Jg46oERSr8HJDxyxctw)
+**[Gmail]**(www.gmail.com)
+**[Private Email]**(https://privateemail.com/appsuite/signin#)
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/twguest/twguest.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
