@@ -1,9 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Radio GRAIN
 
-I should be able to edit this 
-You can use the [editor on GitHub](https://github.com/twguest/twguest.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+```markdown
+Everything to do with Genetics, Robotics, Artifical Intelligence and Nanotechnology.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Nothing to do with hard work or dedication.
+```
 
 ### Markdown
 
